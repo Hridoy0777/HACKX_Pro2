@@ -2,6 +2,6 @@ rm -rf HACKX_Pro2
 
 git clone https://github.com/Hridoy0777/HACKX_Pro2
 
- cd HACKX_Pro2
+cd HACKX_Pro2
 
- python HACKX_Pro.py
+python HACKX_Pro.py
